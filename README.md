@@ -20,7 +20,7 @@ Welcome to my **Portfolio Website (React)** GitHub repository! This repository c
 
 This portfolio website is built using React and is designed to showcase my skills, projects, and experience. It provides an interactive and visually appealing way for others to learn more about me and my work.
 
-![image](https://github.com/riteshk-007/portfolio/assets/135107962/befa9436-9635-46fd-b08b-6280926809fe)
+![image](./assets/resume-bg2.png)
 
 ## Features
 
@@ -37,7 +37,7 @@ To get started with this project, you can either clone the repository or fork it
 
 Before you begin, ensure you have met the following requirements:
 
-![image](https://github.com/riteshk-007/portfolio/assets/135107962/37e8c1aa-422e-4015-9fb2-2220eb002896)
+![image](./assets/resume-bg3.png)
 
 - Node.js and npm installed on your development machine.
 
@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repo or fork it to your GitHub account.
 
 ```bash
-git clone
+git clone https://github.com/arafath-3172/portfolio.git
 ```
 
 ````
